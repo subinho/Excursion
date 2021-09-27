@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+#header  {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color:white;
+    text-align: center;
+}
+
+#download_link {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+a:visited {
+    color: aquamarine;
+}
