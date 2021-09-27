@@ -19,3 +19,8 @@ body {
 a:visited {
     color: aquamarine;
 }
+
+video {
+    display: block;
+    margin:  0 auto;
+}
